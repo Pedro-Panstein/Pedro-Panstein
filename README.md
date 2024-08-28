@@ -22,9 +22,18 @@ Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do s
   </div>
           
           
-## 🌟 Linguagens e Frameworks que eu uso atualmento 🌟
+## 🌟 Tecnologias que eu uso ou tenho conhecimento 🌟
 
-<a href="https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?srsltid=AfmBOorpGsv3AKPOVBrkDjl7keJGF-l1GIXqxhki-sWBpoWj3yJyKCJF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
+<a href="https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?srsltid=AfmBOorpGsv3AKPOVBrkDjl7keJGF-l1GIXqxhki-sWBpoWj3yJyKCJF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="50px"/></a>
+<a href="https://www.alura.com.br/artigos/css?srsltid=AfmBOoqUoDAE3VDHgYAxEIYNDXsZdKaC9pqD8Gg2dkJZaZT-1zML9U7u"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px"/></a>
+<a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50px"/></a>
+<a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50px"></a>
+<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50px"></a>
+<a href=""><img  height="50px"></a>
+<a href=""><img  height="50px"></a>
+<a href=""><img  height="50px"></a>
+<a href=""><img  height="50px"></a>
+<a href=""><img  height="50px"></a>
 
 ## ⭐ Tecnologias que eu já estudei ⭐
 
