@@ -40,13 +40,3 @@ Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do s
 <a href="https://firebase.google.com/?hl=pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50px"></a>
 <a href=""><img  height="50px"></a>
 <a href=""><img  height="50px"></a>
-
-## 📊 Status sobre o que eu ando fazendo por aqui 📊
-
-<div align = "center">
- 
-![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lelepg&theme=nord_dark) 
- 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=lelepg&theme=nord&column=6&row=1&margin-w=10)
- 
-</div>
