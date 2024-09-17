@@ -18,6 +18,7 @@ Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do s
   <div style="display: flex;">
     <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px"/></a>
     <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50px"/></a>
+    <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50px"/></a>
   </div>
           
           
