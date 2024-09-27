@@ -1,28 +1,29 @@
 <img src="bannergit.gif" height="300px" width="300px" align="right">
 
-# 👋 Bem vindo ao meu GitHub
+# 👋 Welcome to my GitHub
 
-## 🙋🏻‍♂️ Quem sou eu
+## 🙋🏻‍♂️ Who am I
 
-Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do sul. Eu faço Desenvolvimento de Sistemas na WEG, tenho uma grande facilidade no Front-End e estou em constante evolução com meus projetos e aplicações 
+Hello! My name is Pedro Henrique Panstein, I'm 17 years old and I live in Jaraguá do Sul. I do Systems Development at WEG, I have great skills in Front-End and I am constantly evolving with my projects and applications
 
-## 🗂️ O que você vai encontrar no meu Github 🗂️
+## 🗂️ What you will find on my Github 🗂️
 
-👩‍💻 Projetos de Front-end e Back-end
+👩‍💻 Front-end and Back-end projects
 
-🤖 Cursos de diferentes linguagens
+🤖 Courses in different programming languages
 
-🖥️ Alguns códigos aleatórios
+🖥️ Some random codes
 
-## 👨🏽‍💻 IDEs que eu mais utilizo no momento
+## 👨🏽‍💻 IDEs that I use most at the moment
   <div style="display: flex;">
     <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px"/></a>
     <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50px"/></a>
-    <a href="https://developer.android.com/studio?hl=pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50px"/></a>
+    <a href="https://developer.android.com/studio?hl=pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-      
+    original.svg" height="50px"/></a>
   </div>
           
           
-## 🌟 Tecnologias que eu uso atualmente 🌟
+## 🌟 Technologies I currently use 🌟
 
 <a href="https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?srsltid=AfmBOorpGsv3AKPOVBrkDjl7keJGF-l1GIXqxhki-sWBpoWj3yJyKCJF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  height="50px"/></a>
 <a href="https://www.alura.com.br/artigos/css?srsltid=AfmBOoqUoDAE3VDHgYAxEIYNDXsZdKaC9pqD8Gg2dkJZaZT-1zML9U7u"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px"/></a>
@@ -36,7 +37,7 @@ Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do s
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="50px"></a>
 <a href=""><img  height="50px"></a>
 
-## ⭐ Tecnologias que eu já estudei ⭐
+## ⭐ Technologies I've studied ⭐
 
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50px"></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50px"></a>
@@ -44,17 +45,15 @@ Olá! Meu nome é Pedro Henrique Panstein, tenho 17 anos e moro em Jaraguá do s
 <a href="https://firebase.google.com/?hl=pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50px"></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=andrewitt44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrewitt44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewitt44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Pedro-Panstein&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Panstein&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Panstein&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andrewitt44&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Pedro-Panstein&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=andrewitt44&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Pedro-Panstein&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrewitt44&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Pedro-Panstein&icon=0&color=0)](https://visitcount.itsvg.in)
