@@ -1,4 +1,4 @@
-<img src="ButtonsMacPng.png" height="100px" width="200px" align="top">
+<img src="" height="100px" width="200px" align="top">
 
 # 👋 Welcome to my GitHub
 
