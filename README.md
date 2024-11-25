@@ -33,7 +33,6 @@ Hello! My name is Pedro Henrique Panstein, I'm 17 years old and I live in Jaragu
 <a href="https://www.java.com/pt-BR/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"></a>
 <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50px"></a>
 <a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="50px"></a>
-<a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="50px"></a>
 <a href=""><img  height="50px"></a>
 
