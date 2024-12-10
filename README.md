@@ -32,7 +32,8 @@ Hello! My name is Pedro Henrique Panstein, I'm 17 years old and I live in Jaragu
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px"></a>
 <a href="https://www.java.com/pt-BR/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"></a>
 <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50px"></a>
-
+<a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50px"></a>
+<a href="https://nodejs.org/pt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50px"></a>
 <a href=""><img  height="50px"></a>
 
 ## ⭐ Technologies I've studied ⭐
@@ -43,6 +44,12 @@ Hello! My name is Pedro Henrique Panstein, I'm 17 years old and I live in Jaragu
 <a href="https://firebase.google.com/?hl=pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50px"></a>
 <a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="50px"></a>
+<a href="https://kafka.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50px"></a>
+<a href="https://material.angular.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" height="50px"></a>
+<a href="https://www.mongodb.com/pt-br"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50px"></a>
+<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px"></a>
+<a href="https://www.selenium.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="50px"></a>
+<a href=""><img  height="50px"></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pedro-Panstein&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
